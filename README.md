@@ -1,2 +1,2 @@
 # Credit_Card_Financial_Dashboard
-Insights of the credit card financial data 
+Credit Card Transaction and Customer Dashboard using Power BI
